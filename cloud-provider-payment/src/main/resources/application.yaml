@@ -1,0 +1,18 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: cloud-payment-service
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://139.196.75.206:3306/hzDB?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: hz
+    password: hz1010
+    druid:
+      validation-query: SELECT 1
+
+mybatis:
+  mapperLocations: classpath:mapper/*.xml
+  type-aliases-package: com.hizoo.springcloud.entities
