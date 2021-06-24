@@ -9,9 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-provider-payment" />
         <module name="cloud-consumer-order" />
+        <module name="cloud-api-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-api-common" target="1.8" />
       <module name="cloud-consumer-order" target="1.8" />
       <module name="cloud-provider-payment" target="1.8" />
       <module name="springCloud" target="1.8" />
