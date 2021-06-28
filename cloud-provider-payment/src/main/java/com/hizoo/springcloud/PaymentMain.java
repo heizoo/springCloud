@@ -2,6 +2,7 @@ package com.hizoo.springcloud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
  * 订单
@@ -10,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @create 2021-06-23-15:27
  */
 @SpringBootApplication
+@EnableEurekaClient
 public class PaymentMain {
 
     public static void main(String[] args) {

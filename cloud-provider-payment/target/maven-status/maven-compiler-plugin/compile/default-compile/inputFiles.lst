@@ -1,7 +1,5 @@
-D:\work\cloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\dao\PaymentDao.java
-D:\work\cloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\controller\PaymentController.java
-D:\work\cloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\entities\Payment.java
-D:\work\cloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\entities\CommonResult.java
-D:\work\cloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\PaymentMain.java
-D:\work\cloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\service\impl\PaymentServiceImpl.java
-D:\work\cloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\service\PaymentService.java
+D:\work\springCloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\PaymentMain.java
+D:\work\springCloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\controller\PaymentController.java
+D:\work\springCloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\service\PaymentService.java
+D:\work\springCloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\dao\PaymentDao.java
+D:\work\springCloud\cloud-provider-payment\src\main\java\com\hizoo\springcloud\service\impl\PaymentServiceImpl.java

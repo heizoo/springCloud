@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" filepath="$PROJECT_DIR$/cloud-api-common/cloud-api-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-order/cloud-consumer-order.iml" filepath="$PROJECT_DIR$/cloud-consumer-order/cloud-consumer-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment/cloud-provider-payment.iml" filepath="$PROJECT_DIR$/cloud-provider-payment/cloud-provider-payment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
     </modules>
