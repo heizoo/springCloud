@@ -16,6 +16,7 @@
         <module>cloud-eureka-server</module>
         <module>cloud-eureka-server-2</module>
         <module>cloud-provider-payment-2</module>
+        <module>cloud-provider-payment-zookeeper</module>
     </modules>
 
     <properties>
